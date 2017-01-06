@@ -11,6 +11,7 @@ Assignment:  What application will your team be supporting? Django
      * Documentation
      * Build
      * PM/Communication
+
 2) Create a slack channel and GitHub repository for your team.  Link to it here.
 
 Slack DjangoTeam-group invite link: 
